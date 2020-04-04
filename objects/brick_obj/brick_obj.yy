@@ -1,10 +1,19 @@
 {
-    "id": "cfc08f5d-4e5f-442a-9659-f4f703aa1025",
+    "id": "dc69885a-65b6-4c27-b452-458649444d52",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "tableL_obj",
+    "name": "brick_obj",
     "eventList": [
-        
+        {
+            "id": "5e310c1b-365b-48b1-b6e2-865fef7ae2e6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 3,
+            "m_owner": "dc69885a-65b6-4c27-b452-458649444d52"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -24,7 +33,7 @@
     "physicsStartAwake": true,
     "properties": [
         {
-            "id": "8874490d-93b6-4cf7-9e17-025f32439d88",
+            "id": "9893e94a-e45f-48aa-9ad0-8fa4d9b35313",
             "modelName": "GMObjectProperty",
             "mvc": "1.0",
             "listItems": null,
@@ -33,12 +42,12 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "empty",
-            "varName": "status",
-            "varType": 2
+            "value": "0",
+            "varName": "Trzymany",
+            "varType": 3
         }
     ],
     "solid": false,
-    "spriteId": "6b80bcc6-b969-4b4e-82bb-af9b80009995",
+    "spriteId": "dcaf0534-2510-4393-b92f-0e7110ad4c69",
     "visible": true
 }

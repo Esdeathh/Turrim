@@ -15,7 +15,17 @@
             "m_owner": "af20c604-e3e6-4278-baa4-8863ef75de40"
         },
         {
-            "id": "657de644-3947-4352-9c05-fdd576ca4bca",
+            "id": "a9b7114b-1a84-4aa5-ba23-cb4dd410d44a",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "af20c604-e3e6-4278-baa4-8863ef75de40"
+        },
+        {
+            "id": "a480f500-028a-4896-bf17-b706636a40b2",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
@@ -55,6 +65,34 @@
             "value": "idle",
             "varName": "status",
             "varType": 2
+        },
+        {
+            "id": "a4156f2c-d0b4-482b-be8c-88945fc4c8d3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "holding_item",
+            "varType": 5
+        },
+        {
+            "id": "23c28307-30f9-43c3-a152-6d5b5613e556",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "item_real",
+            "varType": 0
         }
     ],
     "solid": false,
