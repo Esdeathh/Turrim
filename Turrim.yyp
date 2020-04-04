@@ -607,6 +607,22 @@
             }
         },
         {
+            "Key": "d9e09fcb-f7d2-4938-898f-33ac07a75bdb",
+            "Value": {
+                "id": "9494a864-cfb7-4a10-9154-c4a3d660886f",
+                "resourcePath": "sprites\\Bez_tytu_u\\Bez_tytu_u.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dacf417b-a8d6-48a4-be5c-84142a30f8c2",
+            "Value": {
+                "id": "e33da0fd-2a19-46ed-8833-026f8938ac21",
+                "resourcePath": "objects\\linia1_obj\\linia1_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dbae96ec-17ac-4cef-9df6-638d1da4f0b5",
             "Value": {
                 "id": "937b2833-7e9e-40c0-b733-c776697a019e",

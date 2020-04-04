@@ -1,4 +1,4 @@
-if (furnance_obj.status == "idle" && Trzymany == true && place_meeting(x, y, furnance_obj)) {
+if (furnance_obj.status == "idle" && Trzymany == true && place_meeting(phy_position_x, phy_position_y, furnance_obj)) {
 	Trzymany = false;
 	instance_destroy();
 	furnance_obj.status = "working";
