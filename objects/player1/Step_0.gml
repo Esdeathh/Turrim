@@ -17,9 +17,23 @@ if (!keyboard_check(vk_right)) && (!keyboard_check(vk_left))
 
 if (instance_place(x,y,o_drabina)) && (keyboard_check(vk_up))
 {
-	phy_speed_y = -5;
+	if (!physics_test_overlap(phy_position_x, phy_position_y-1, 0, o_sciana))
+	{
+		phy_speed_y = -5;
+	}
+	else
+	{
+		phy_speed_y = 0;
+	}
 }
 if (instance_place(x,y,o_drabina)) && (keyboard_check(vk_down)) 
 {
-	phy_speed_y = 5;
+	if (!physics_test_overlap(phy_position_x, phy_position_y+1, 0, o_sciana))
+	{
+		phy_speed_y = 5;
+	}
+	else
+	{
+		phy_speed_y = 0;
+	}
 }
