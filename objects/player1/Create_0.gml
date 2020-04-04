@@ -1,0 +1,1 @@
+DotykaDrabiny = false;

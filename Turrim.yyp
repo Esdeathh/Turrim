@@ -431,6 +431,14 @@
             }
         },
         {
+            "Key": "c757e3fd-c700-42da-82f6-4f4261c06186",
+            "Value": {
+                "id": "ee56ec1c-0376-488d-98e5-e9cd8a628fd1",
+                "resourcePath": "objects\\o_drabina\\o_drabina.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "49d6942c-0cf0-4b6a-8442-4bc84502dc49",
