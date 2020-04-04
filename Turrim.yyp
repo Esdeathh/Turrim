@@ -543,6 +543,22 @@
             }
         },
         {
+            "Key": "ce82ba44-51cb-4c16-a861-eae3c4c246f7",
+            "Value": {
+                "id": "3df429de-2a97-4c88-8c4d-4de1fcd3514f",
+                "resourcePath": "sprites\\window_upper\\window_upper.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "d10b4594-74d0-4a49-8f8c-fd14247505ea",
+            "Value": {
+                "id": "b16aca00-cc48-4a06-9f45-c68a5daf9739",
+                "resourcePath": "sprites\\window_bottom\\window_bottom.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "dbae96ec-17ac-4cef-9df6-638d1da4f0b5",
             "Value": {
                 "id": "937b2833-7e9e-40c0-b733-c776697a019e",
