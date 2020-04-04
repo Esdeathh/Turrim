@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "060641cf-2a6a-4745-a7ee-cba81426e4e7",
+            "Value": {
+                "id": "b3dafeb5-8fb5-4a43-ad2b-b608722cda4c",
+                "resourcePath": "objects\\wooden_planks_obj\\wooden_planks_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0cdabe47-a471-49d0-9776-bfbb9f2dfb94",
             "Value": {
                 "id": "c13669a1-fc29-49b8-a444-964233559643",
@@ -151,6 +159,14 @@
             }
         },
         {
+            "Key": "2c276918-6b37-41c7-a3ed-02c4ed641c6d",
+            "Value": {
+                "id": "3b1e3d26-cd11-44cc-8384-107823258eaf",
+                "resourcePath": "objects\\clay_obj\\clay_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ddccd51-c547-47ab-afb8-d48ec72d14f1",
             "Value": {
                 "id": "0e234d18-f8cb-4591-9be9-54941dcd37e7",
@@ -236,6 +252,14 @@
                 "id": "7855de5f-d5d8-4461-ad89-677dbecdf205",
                 "resourcePath": "sprites\\trashbin35\\trashbin35.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4b86e678-8eca-46f4-b99f-d4a11b7ff681",
+            "Value": {
+                "id": "18ca31fd-5940-4133-84f0-f566f23dd4ef",
+                "resourcePath": "objects\\sand_obj\\sand_obj.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -407,6 +431,14 @@
             }
         },
         {
+            "Key": "7db03f64-fb03-43a7-90cc-fb0ac3bd85fb",
+            "Value": {
+                "id": "0410808d-974c-4026-91ef-0a80f20e5f87",
+                "resourcePath": "objects\\metal_plate_obj\\metal_plate_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7e377c03-bfe6-4138-91d9-b47d7071f82f",
             "Value": {
                 "id": "32330966-b4ba-4014-8ee1-f9c0c7e2448c",
@@ -559,6 +591,14 @@
             }
         },
         {
+            "Key": "d32dd954-72ae-4c56-aede-c7c4871914a6",
+            "Value": {
+                "id": "ff4874f8-fc06-47fc-96e2-0052cc9495f2",
+                "resourcePath": "objects\\glass_obj\\glass_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dbae96ec-17ac-4cef-9df6-638d1da4f0b5",
             "Value": {
                 "id": "937b2833-7e9e-40c0-b733-c776697a019e",
@@ -607,6 +647,14 @@
             }
         },
         {
+            "Key": "f28fa36d-ffa8-49b8-80d9-f3c6ee20965e",
+            "Value": {
+                "id": "c1e59a9e-88bf-4523-9f5d-a583ce9fb579",
+                "resourcePath": "objects\\metal_ingot_obj\\metal_ingot_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "65ff9292-9b0a-480e-8864-c6d96d8787da",
@@ -628,6 +676,14 @@
                 "id": "782bcd9a-ca86-4c13-a486-fd7ad6f374c9",
                 "resourcePath": "sprites\\sawmill_working_wood\\sawmill_working_wood.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ff5577c5-fe98-4b87-ad3e-22096281a6ae",
+            "Value": {
+                "id": "e61317d1-9f90-49ae-9e06-e5afc5229dce",
+                "resourcePath": "objects\\wooden_log_obj\\wooden_log_obj.yy",
+                "resourceType": "GMObject"
             }
         }
     ],
