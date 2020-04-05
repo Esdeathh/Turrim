@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "32bccfaa-ce7b-47d9-8db3-1c69265aaf90",
+            "Value": {
+                "id": "2d96de3a-6f96-4380-b561-332c32d178c1",
+                "resourcePath": "objects\\o_blokada\\o_blokada.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "33b23629-944e-430c-a5c8-4aae8e572aee",
             "Value": {
                 "id": "9a3cace3-583e-4be6-bd76-7687ccd30206",

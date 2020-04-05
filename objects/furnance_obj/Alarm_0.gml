@@ -2,7 +2,7 @@ if (holding_item == clay_obj) {
 	instance_destroy(item_real.id);
 	holding_item = brick_obj;
 	item_real = instance_create_depth(x, y, 0, brick_obj);
-	item_real.Pieczony = true;
+
 	alarm[0] = room_speed * 3;
 } else if (holding_item == brick_obj) {
 	instance_destroy(item_real.id);
