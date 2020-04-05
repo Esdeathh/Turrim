@@ -1,14 +1,14 @@
 {
-    "id": "314fd62a-87e6-4a06-9950-6e18bc266448",
+    "id": "08f7b28a-d33c-4a78-842b-d278983b1c87",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "o_flor",
+    "name": "o_flor11",
     "eventList": [
         
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "parentObjectId": "314fd62a-87e6-4a06-9950-6e18bc266448",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0,
@@ -22,28 +22,28 @@
     "physicsShape": 1,
     "physicsShapePoints": [
         {
-            "id": "4178efa5-81b5-447f-8b48-eb30d43c4b39",
+            "id": "34b3b4a1-1f19-4791-bab9-3e1b6bb9865d",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,
             "y": 0
         },
         {
-            "id": "42f263b0-221f-408f-a78c-68cc2804a2e3",
+            "id": "32d30d0f-016f-43ea-82a8-bc61fbe8bf8b",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 64,
+            "x": 32,
             "y": 0
         },
         {
-            "id": "cf83ed2d-44ea-4d0a-b0e7-cf4e5264f000",
+            "id": "b7124df3-18b2-4a3e-90cf-4f146038a706",
             "modelName": "GMPoint",
             "mvc": "1.0",
-            "x": 64,
+            "x": 32,
             "y": 16
         },
         {
-            "id": "7fdc7d8f-890c-44df-be62-0058a6bcbe6b",
+            "id": "139052c3-f908-4506-93c3-9b6fbcff6e4d",
             "modelName": "GMPoint",
             "mvc": "1.0",
             "x": 0,
@@ -53,6 +53,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "62a38d57-702e-4b6a-ad8c-507ffdf7c2aa",
+    "spriteId": "802005dc-41fa-476a-a8c5-98904546cbad",
     "visible": true
 }

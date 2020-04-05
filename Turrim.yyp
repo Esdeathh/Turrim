@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "08f7b28a-d33c-4a78-842b-d278983b1c87",
+            "Value": {
+                "id": "67677018-9603-4755-9243-54e1b3d85ce7",
+                "resourcePath": "objects\\o_flor11\\o_flor11.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0cdabe47-a471-49d0-9776-bfbb9f2dfb94",
             "Value": {
                 "id": "c13669a1-fc29-49b8-a444-964233559643",
@@ -220,6 +228,14 @@
                 "id": "fdd80054-a778-4e76-9c5e-d677fd67e1dd",
                 "resourcePath": "views\\368c38ab-6e98-485e-82bf-8ac721a50da6.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3c2f3874-b8dc-49a1-851c-458d41f89b26",
+            "Value": {
+                "id": "7693896d-0d0a-4f6e-98e8-ae002c85c1a4",
+                "resourcePath": "sprites\\podstawa_rusztowania1\\podstawa_rusztowania1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -471,6 +487,14 @@
             }
         },
         {
+            "Key": "802005dc-41fa-476a-a8c5-98904546cbad",
+            "Value": {
+                "id": "b998cb1d-1f25-4e1e-b12b-b32b5cb158ad",
+                "resourcePath": "sprites\\podstawa_rusztowania35\\podstawa_rusztowania35.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "854a2232-87a7-456d-9778-7c3aacbee933",
             "Value": {
                 "id": "6b8cedae-3995-45e5-8b0a-4b390c400560",
@@ -659,6 +683,14 @@
             "Value": {
                 "id": "e33da0fd-2a19-46ed-8833-026f8938ac21",
                 "resourcePath": "objects\\linia1_obj\\linia1_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "db707080-30dd-47e1-bf39-b7f6e835e047",
+            "Value": {
+                "id": "9c94a4f8-6247-4f8e-8394-754e0d2545bf",
+                "resourcePath": "objects\\o_flor1\\o_flor1.yy",
                 "resourceType": "GMObject"
             }
         },

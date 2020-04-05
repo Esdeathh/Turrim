@@ -17,7 +17,7 @@ if (!keyboard_check(ord("D"))) && (!keyboard_check(ord("A")))
 //Wchodzenie
 if (instance_place(x,y,o_drabina)) && (keyboard_check(ord("W")))
 {
-	if (!physics_test_overlap(phy_position_x, phy_position_y-1, 0, o_sciana))
+	if (!physics_test_overlap(phy_position_x, phy_position_y-1, 0, o_flor))
 	{
 		phy_speed_y = -5;
 	}
@@ -28,7 +28,7 @@ if (instance_place(x,y,o_drabina)) && (keyboard_check(ord("W")))
 }
 if (instance_place(x,y,o_drabina)) && (keyboard_check(ord("S"))) 
 {
-	if (!physics_test_overlap(phy_position_x, phy_position_y+1, 0, o_sciana))
+	if (!physics_test_overlap(phy_position_x, phy_position_y+1, 0, o_flor))
 	{
 		phy_speed_y = 5;
 	}
