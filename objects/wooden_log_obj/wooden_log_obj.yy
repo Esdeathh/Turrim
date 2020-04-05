@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "wooden_log_obj",
     "eventList": [
-        
+        {
+            "id": "55e9f1bf-2c68-4f27-ac5c-2557256f9412",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "314fd62a-87e6-4a06-9950-6e18bc266448",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "ff5577c5-fe98-4b87-ad3e-22096281a6ae"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -16,7 +25,7 @@
     "physicsGroup": 0,
     "physicsKinematic": false,
     "physicsLinearDamping": 0.1,
-    "physicsObject": false,
+    "physicsObject": true,
     "physicsRestitution": 0.1,
     "physicsSensor": false,
     "physicsShape": 1,

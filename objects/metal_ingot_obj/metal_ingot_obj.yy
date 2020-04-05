@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "metal_ingot_obj",
     "eventList": [
-        
+        {
+            "id": "91ca34a2-d5be-4c1b-9b3b-66f3ebbfc82f",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "314fd62a-87e6-4a06-9950-6e18bc266448",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "f28fa36d-ffa8-49b8-80d9-f3c6ee20965e"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -16,7 +25,7 @@
     "physicsGroup": 0,
     "physicsKinematic": false,
     "physicsLinearDamping": 0.1,
-    "physicsObject": false,
+    "physicsObject": true,
     "physicsRestitution": 0.1,
     "physicsSensor": false,
     "physicsShape": 1,
