@@ -183,6 +183,14 @@
             }
         },
         {
+            "Key": "314fd62a-87e6-4a06-9950-6e18bc266448",
+            "Value": {
+                "id": "48341d6b-8ea3-45c1-9b68-83074b09dece",
+                "resourcePath": "objects\\o_flor\\o_flor.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "32bccfaa-ce7b-47d9-8db3-1c69265aaf90",
             "Value": {
                 "id": "2d96de3a-6f96-4380-b561-332c32d178c1",
