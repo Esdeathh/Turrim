@@ -6,6 +6,7 @@ if (Trzymany == true)
 {
 	phy_position_y = player1.phy_position_y;
 	phy_position_x = player1.phy_position_x;
+	phy_speed_y = 0;
 }
 if (furnance_obj.item_real.id == id)
 {
@@ -18,6 +19,6 @@ if (Trzymany == true)
 	if (keyboard_check_pressed(ord("R")))
 	{
 		Trzymany = false;
-		physics_apply_impulse(phy_position_x,phy_position_y,120,-120);
+		physics_apply_impulse(phy_position_x,phy_position_y,300+player1.phy_speed_x*100,-300);
 	}
 }

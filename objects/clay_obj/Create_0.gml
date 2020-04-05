@@ -1,2 +1,0 @@
-Pieczony = false;
-Trzymany = false;
