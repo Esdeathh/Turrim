@@ -543,6 +543,14 @@
             }
         },
         {
+            "Key": "b1d5a795-e0d8-403f-bc52-07052a741541",
+            "Value": {
+                "id": "ec655f05-0cd5-45e1-a520-32e3fc05c2bb",
+                "resourcePath": "objects\\tile_obj\\tile_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "bf4cb32f-6e8f-41fd-b41b-4fd619ddb5d5",
             "Value": {
                 "id": "a03746ec-cb6e-43cd-bfa0-c19ed9e18044",
