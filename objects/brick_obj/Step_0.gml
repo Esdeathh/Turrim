@@ -16,7 +16,7 @@ if (furnance_obj.item_real.id == id)
 }
 if (Trzymany == true)
 {
-	if (keyboard_check_pressed(ord("R")))
+	if (keyboard_check_pressed(vk_space))
 	{
 		Trzymany = false;
 		physics_apply_impulse(phy_position_x,phy_position_y,300+player1.phy_speed_x*100,-300);
