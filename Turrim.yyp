@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "121c6893-4288-4b57-8ff3-94aa98de018b",
+            "Value": {
+                "id": "4ff8f797-4ae9-4a4c-b766-43b98ae1f684",
+                "resourcePath": "objects\\o_przejscie\\o_przejscie.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "123338a3-93cc-40ef-b16d-2a4a5f4f16af",
             "Value": {
                 "id": "21715da7-d59e-4c77-a718-203b20f9ac39",
@@ -516,6 +524,14 @@
                 "id": "93b85fa3-e968-4713-8527-cbd7c4a2877b",
                 "resourcePath": "sprites\\furnace_idle\\furnace_idle.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a3c6d99d-a3e8-4ed9-b9d3-3a775537d087",
+            "Value": {
+                "id": "884c16e8-0963-4ff5-93ed-bcec406f4a64",
+                "resourcePath": "objects\\o_nieprzejscie\\o_nieprzejscie.yy",
+                "resourceType": "GMObject"
             }
         },
         {
