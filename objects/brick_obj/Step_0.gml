@@ -42,7 +42,7 @@ if (Trzymany == true)
 if (place_meeting(x,y,player2)) && (player2.holding == false || Trzymany2) && (keyboard_check_pressed(191) && id != furnance_obj.item_real.id)
 {
 	Trzymany2 = !Trzymany2;
-	player2.holding = !player2.holding;
+	player2.holding = false;
 }
 if (Trzymany2 == true)
 {
