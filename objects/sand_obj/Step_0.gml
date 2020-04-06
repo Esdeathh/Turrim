@@ -32,7 +32,7 @@ if (Trzymany == true)
 	if (keyboard_check_pressed(vk_space))
 	{
 		Trzymany = false;
-		physics_apply_impulse(phy_position_x,phy_position_y,120+player1.phy_speed_x*50,-120);
+		physics_apply_impulse(phy_position_x,phy_position_y,325+player1.phy_speed_x*50,-325);
 		player1.holding = false;
 	}
 }

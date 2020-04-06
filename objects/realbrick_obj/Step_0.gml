@@ -35,9 +35,9 @@ if (Czas < 1)
 if (place_meeting(x,y,brick_obj)) && (keyboard_check_pressed(190))
 {
 	sprite_index = brick;
-	instance_destroy(instance_nearest(x,y,brick_obj));
 	Psucie = false;
 	Czas = 4;
+	instance_destroy(instance_nearest(x,y,brick_obj));
 }
 if (Psucie == false)
 {
