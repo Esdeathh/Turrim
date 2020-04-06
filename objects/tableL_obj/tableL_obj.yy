@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "tableL_obj",
     "eventList": [
-        
+        {
+            "id": "d36c9115-0cdd-4ee0-8fc5-2f1d20583a28",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 69,
+            "eventtype": 9,
+            "m_owner": "cfc08f5d-4e5f-442a-9659-f4f703aa1025"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -33,9 +42,37 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "empty",
+            "value": "idle",
             "varName": "status",
             "varType": 2
+        },
+        {
+            "id": "b57809ef-5231-4009-86e9-f5895f12e9d5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "noone",
+            "varName": "holding_item",
+            "varType": 5
+        },
+        {
+            "id": "50b18af7-f083-4ea7-a45d-4ce96bf09ef3",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "item_real",
+            "varType": 0
         }
     ],
     "solid": false,

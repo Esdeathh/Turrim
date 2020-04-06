@@ -102,7 +102,7 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "Trzymany1",
+            "varName": "Trzymany",
             "varType": 3
         },
         {

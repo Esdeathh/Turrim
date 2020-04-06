@@ -1,6 +1,22 @@
-if (Trzymany1 == true && place_meeting(phy_position_x, phy_position_y, tashbin_obj)) {
-	Trzymany1 = false;
+if (Trzymany == true && place_meeting(phy_position_x, phy_position_y, tashbin_obj)) {
+	Trzymany = false;
 	instance_destroy();
-	player1.holding = !player1.holding;
+	player1.holding = false;
+}
+if (tableL_obj.status == "idle" && Trzymany == true && place_meeting(phy_position_x, phy_position_y, tableL_obj)) {
+	Trzymany = false;
+	instance_destroy();
+	tableL_obj.status = "working";
+	tableL_obj.holding_item = ornamentation_obj;
+	tableL_obj.item_real = instance_create_depth(tableL_obj.x, tableL_obj.y - 50, 0, ornamentation_obj);
+	player1.holding = false;
+}
+if (tableR_obj.status == "idle" && Trzymany == true && place_meeting(phy_position_x, phy_position_y, tableR_obj)) {
+	Trzymany = false;
+	instance_destroy();
+	tableR_obj.status = "working";
+	tableR_obj.holding_item = ornamentation_obj;
+	tableR_obj.item_real = instance_create_depth(tableR_obj.x, tableR_obj.y - 50, 0, ornamentation_obj);
+	player1.holding = false;
 }
 
