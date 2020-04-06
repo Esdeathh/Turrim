@@ -38,7 +38,7 @@ if (Trzymany == true)
 	}
 }
 //Gracz 2
-if (place_meeting(x,y,player2)) && (player2.holding == false || Trzymany2) && (keyboard_check_pressed(ord("Q")) && id != furnance_obj.item_real.id)
+if (place_meeting(x,y,player2)) && (player2.holding == false || Trzymany2) && (keyboard_check_pressed(191) && id != furnance_obj.item_real.id)
 {
 	Trzymany2 = !Trzymany2;
 	player2.holding = !player2.holding;
@@ -51,7 +51,7 @@ if (Trzymany2 == true)
 }
 if (Trzymany2 == true)
 {
-	if (keyboard_check_pressed(vk_space))
+	if (keyboard_check_pressed(188))
 	{
 		Trzymany2 = false;
 		physics_apply_impulse(phy_position_x,phy_position_y,300+player1.phy_speed_x*100,-300);

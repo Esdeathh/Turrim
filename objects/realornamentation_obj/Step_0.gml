@@ -32,7 +32,7 @@ if (Czas < 1)
 	//sprite_index = coolbrick11;
 }
 //Naprawianie
-if (place_meeting(x,y,ornamentation_obj)) && (keyboard_check(ord("E")))
+if (place_meeting(x,y,ornamentation_obj)) && (keyboard_check_pressed(190))
 {
 	sprite_index = ornamentation;
 	instance_destroy(instance_nearest(x,y,ornamentation_obj));
