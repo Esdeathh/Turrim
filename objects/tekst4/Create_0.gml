@@ -1,0 +1,1 @@
+global.Zycie = 0;

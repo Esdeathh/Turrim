@@ -16,6 +16,7 @@ if (FlashAlpha > 0.9)
 //Koniec czasu
 if (Czas < 0.5)
 {
+	global.Zycie += 1;
 	instance_destroy();
 }
 //Zmiana wyglądu

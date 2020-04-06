@@ -695,6 +695,14 @@
             }
         },
         {
+            "Key": "8afbae2d-e850-4809-b0d2-1aa6b97ff05e",
+            "Value": {
+                "id": "0d9915b1-ee46-4b75-ae7c-b3989185babd",
+                "resourcePath": "objects\\tekst5\\tekst5.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8de8b215-aa3d-4406-ad43-6fbf7e3e9408",
             "Value": {
                 "id": "cc0b4c60-0fef-4ef9-a0e1-043f00cd94d8",
@@ -844,6 +852,14 @@
                 "id": "4333476b-6fb0-4570-b7c1-46be81f6ad72",
                 "resourcePath": "fonts\\font0\\font0.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "bdc38df8-c8a5-4024-99b7-324e0496a34f",
+            "Value": {
+                "id": "bd09f0d3-975f-4c6a-bfbb-f626e36eef8b",
+                "resourcePath": "rooms\\room11\\room11.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
