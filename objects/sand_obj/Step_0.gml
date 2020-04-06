@@ -1,6 +1,7 @@
-if (place_meeting(x,y,player1)) && (keyboard_check_pressed(ord("Q")) && id != furnance_obj.item_real.id)
+if (place_meeting(x,y,player1)) && (player1.holding == false || Trzymany) && (keyboard_check_pressed(ord("Q")) && id != furnance_obj.item_real.id)
 {
 	Trzymany = !Trzymany;
+	player1.holding = !player1.holding;
 }
 if (Trzymany == true)
 {

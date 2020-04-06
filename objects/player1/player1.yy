@@ -100,7 +100,22 @@
         }
     ],
     "physicsStartAwake": true,
-    "properties": null,
+    "properties": [
+        {
+            "id": "bf35717e-bd8d-4e08-972b-be8fe9498e25",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "holding",
+            "varType": 3
+        }
+    ],
     "solid": false,
     "spriteId": "6ea5fe01-9a33-49ce-a670-ff784a8ce321",
     "visible": true
