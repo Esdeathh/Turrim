@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "2d3bf890-0fe9-4c23-a9ac-682ae7ef75e5",
+            "Value": {
+                "id": "17f4b757-a5bd-4c24-8dc2-82f9de9ffd96",
+                "resourcePath": "objects\\wood_spawner\\wood_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2ddccd51-c547-47ab-afb8-d48ec72d14f1",
             "Value": {
                 "id": "0e234d18-f8cb-4591-9be9-54941dcd37e7",
@@ -364,6 +372,14 @@
                 "id": "e3058a29-24df-4cba-9025-3aeae4015578",
                 "resourcePath": "sprites\\sawmill_working_metal\\sawmill_working_metal.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "52dd69da-1419-46d2-9125-7bb5650e7bd5",
+            "Value": {
+                "id": "7cfc18e9-3abd-4753-a8c5-7bfbce8f0909",
+                "resourcePath": "objects\\metal_spawner\\metal_spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -607,6 +623,14 @@
             }
         },
         {
+            "Key": "80fbefb2-6f26-4133-8d26-a01add5248b5",
+            "Value": {
+                "id": "a40fffca-91bf-4b7c-8fbd-b084661702dc",
+                "resourcePath": "objects\\clay_spawner\\clay_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "854a2232-87a7-456d-9778-7c3aacbee933",
             "Value": {
                 "id": "6b8cedae-3995-45e5-8b0a-4b390c400560",
@@ -831,6 +855,14 @@
             }
         },
         {
+            "Key": "cf58794f-7761-437b-ba07-4ebea49d8394",
+            "Value": {
+                "id": "7d2accb5-9e15-4c74-bdaf-33d3b5b808e6",
+                "resourcePath": "sprites\\spawner\\spawner.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cfc08f5d-4e5f-442a-9659-f4f703aa1025",
             "Value": {
                 "id": "0705e6f1-9b3f-41e0-87b5-9bd1af8716a1",
@@ -972,6 +1004,14 @@
                 "id": "4163cc38-b80a-4644-bc2e-25ec9f2cd383",
                 "resourcePath": "views\\f70e789b-384b-4840-bf51-a0d836835aab.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "f72e96bc-bac8-403d-94d0-64c45276896e",
+            "Value": {
+                "id": "abeebe89-8494-471b-a4b1-740c30115b2a",
+                "resourcePath": "objects\\sand_spawner\\sand_spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
