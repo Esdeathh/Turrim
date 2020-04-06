@@ -21,5 +21,6 @@ if (Trzymany == true)
 	{
 		Trzymany = false;
 		physics_apply_impulse(phy_position_x,phy_position_y,120+player1.phy_speed_x*50,-120);
+		player1.holding = !player1.holding;
 	}
 }
