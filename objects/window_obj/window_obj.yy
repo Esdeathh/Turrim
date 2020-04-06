@@ -33,6 +33,16 @@
             "enumb": 69,
             "eventtype": 9,
             "m_owner": "bea3effb-d2ea-433b-9858-36f9bd08bd7a"
+        },
+        {
+            "id": "fb5d111d-294c-4e4e-b571-798de4171d57",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "121c6893-4288-4b57-8ff3-94aa98de018b",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "bea3effb-d2ea-433b-9858-36f9bd08bd7a"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -92,7 +102,21 @@
             "rangeMin": 0,
             "resourceFilter": 1023,
             "value": "0",
-            "varName": "Trzymany",
+            "varName": "Trzymany1",
+            "varType": 3
+        },
+        {
+            "id": "7d031218-46af-4464-a0df-0381c2c5b380",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "Trzymany2",
             "varType": 3
         }
     ],
