@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "0deca021-aa17-47c5-93fb-d7463e53310d",
+            "Value": {
+                "id": "c048b1f2-731a-4f6d-9da2-c97cbfeed814",
+                "resourcePath": "sprites\\Dispenser\\Dispenser.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0e87bcef-59ef-46cf-ad62-43f0f649a9ab",
             "Value": {
                 "id": "e4bb8c4c-c624-4ce9-bceb-437015615f3b",
@@ -175,6 +183,14 @@
             }
         },
         {
+            "Key": "28c9964e-c716-4538-a855-9841b4e31d71",
+            "Value": {
+                "id": "15fe9346-3024-484e-8850-2fd36708d4e4",
+                "resourcePath": "sounds\\workbench_damage\\workbench_damage.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2a29a387-97da-4b17-9b2e-2cca55344043",
             "Value": {
                 "id": "b70f6150-7c9b-4914-8293-e13ee553c0d4",
@@ -188,6 +204,14 @@
                 "id": "38ab97b2-48da-41ad-a653-b86f95f21b56",
                 "resourcePath": "views\\2adf5e07-d40a-4b0f-8ccc-f51474bea732.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2b822569-c7d1-4a39-ae18-2b38f5c900e1",
+            "Value": {
+                "id": "6d39676a-435e-4865-978f-e79acaec8419",
+                "resourcePath": "sounds\\workbench_put\\workbench_put.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -316,6 +340,14 @@
                 "id": "a3705fa6-e0f2-4b16-a348-9e34349ab3cd",
                 "resourcePath": "objects\\anvil_obj\\anvil_obj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "47b18fc1-51c8-4fa1-a137-20935f614ef4",
+            "Value": {
+                "id": "7b8df353-f14e-4b08-9ce6-f911076e48a3",
+                "resourcePath": "sounds\\furnance_put\\furnance_put.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -591,6 +623,14 @@
             }
         },
         {
+            "Key": "7d5ca4f0-0f2b-4a7e-8b33-a40baa55ef5b",
+            "Value": {
+                "id": "fef0fcb5-1c8a-44e2-9a9b-17da25bd62a4",
+                "resourcePath": "sprites\\Char_Idle\\Char_Idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7db03f64-fb03-43a7-90cc-fb0ac3bd85fb",
             "Value": {
                 "id": "0410808d-974c-4026-91ef-0a80f20e5f87",
@@ -668,6 +708,14 @@
                 "id": "c6c88328-89fd-40eb-acdc-69f3dc8a8a60",
                 "resourcePath": "objects\\tekst2\\tekst2.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9038d334-bee0-4580-91e2-fe4b86232810",
+            "Value": {
+                "id": "325f7028-c81d-4b34-bf08-734657a214ed",
+                "resourcePath": "sounds\\workbench_get\\workbench_get.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -911,6 +959,14 @@
             }
         },
         {
+            "Key": "dbe14547-4ec1-4f38-b876-d23c435d1a1c",
+            "Value": {
+                "id": "3754c3f4-8dd0-4945-90b6-4a81cff21eb3",
+                "resourcePath": "objects\\tekst4\\tekst4.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dc69885a-65b6-4c27-b452-458649444d52",
             "Value": {
                 "id": "a9e30c19-d30b-4fb3-94c3-33a82f07904b",
@@ -1036,6 +1092,14 @@
                 "id": "782bcd9a-ca86-4c13-a486-fd7ad6f374c9",
                 "resourcePath": "sprites\\sawmill_working_wood\\sawmill_working_wood.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fd12c2df-9512-472d-bad6-5e942d4277b0",
+            "Value": {
+                "id": "87c72b40-566d-41a1-90d9-5fd5d031b060",
+                "resourcePath": "sounds\\trash\\trash.yy",
+                "resourceType": "GMSound"
             }
         },
         {

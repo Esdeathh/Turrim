@@ -7,4 +7,5 @@
 		holding_item = noone;
 		status = "idle";
 		player1.holding = true;
+		audio_play_sound(furnance_get,1,false);
 	}

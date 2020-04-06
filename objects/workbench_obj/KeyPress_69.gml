@@ -2,6 +2,7 @@
 		instance_destroy(item_real1.id);
 		if (item_real2 != 0 )instance_destroy(item_real2.id);
 		var tmp = instance_create_depth(x, y, 0, holding_item1);
+		audio_play_sound(workbench_get,1,false);
 		alarm[0] = -1;
 		tmp.Trzymany = true;
 		item_real1 = 0;

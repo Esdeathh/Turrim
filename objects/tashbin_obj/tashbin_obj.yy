@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "tashbin_obj",
     "eventList": [
-        
+        {
+            "id": "0f4dede6-8aa9-427c-9224-a89b09348b71",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 69,
+            "eventtype": 9,
+            "m_owner": "33b23629-944e-430c-a5c8-4aae8e572aee"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
