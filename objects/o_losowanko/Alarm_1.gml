@@ -1,4 +1,3 @@
-alarm[0] = room_speed*60;
 repeat (3)
 {
 Rodzaj = irandom_range(1,4);
