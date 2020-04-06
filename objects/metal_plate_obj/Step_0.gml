@@ -15,12 +15,6 @@ if (sawmill_obj.item_real.id == id)
 	phy_position_x = sawmill_obj.x;
 	phy_speed_y = 0;
 }
-if (anvil_obj.item_real.id == id)
-{
-	phy_position_y = anvil_obj.y-48;
-	phy_position_x = anvil_obj.x;
-	phy_speed_y = 0;
-}
 if (tableL_obj.item_real.id == id)
 {
 	phy_position_y = tableL_obj.y-48;
