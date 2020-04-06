@@ -1,4 +1,5 @@
 if (sawmill_obj.status == "idle" && Trzymany == true && place_meeting(phy_position_x, phy_position_y, sawmill_obj)) {
+	audio_play_sound(sawmill_get,1,false);
 	Trzymany = false;
 	instance_destroy();
 	sawmill_obj.status = "working";

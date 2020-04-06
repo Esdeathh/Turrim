@@ -33,6 +33,7 @@ if (Trzymany == true)
 	if (keyboard_check_pressed(vk_space))
 	{
 		Trzymany = false;
+		audio_play_sound(throw_sound,1,false);
 		physics_apply_impulse(phy_position_x,phy_position_y,900+player1.phy_speed_x*200,-950);
 		player1.holding = false;
 	}
@@ -54,6 +55,7 @@ if (Trzymany2 == true)
 	if (keyboard_check_pressed(188))
 	{
 		Trzymany2 = false;
+		audio_play_sound(throw_sound,1,false);
 		physics_apply_impulse(phy_position_x,phy_position_y,300+player1.phy_speed_x*100,-300);
 		player2.holding = false;
 	}
